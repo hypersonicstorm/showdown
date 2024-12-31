@@ -1,7 +1,7 @@
 BATTLE_BOT=mcts
 WEBSOCKET_URI=wss://sim3.psim.us/showdown/websocket
-# PS_USERNAME=hypersonicstorm
-# PS_PASSWORD=malamar2400
+PS_USERNAME=hypersonicstorm
+PS_PASSWORD=malamar2400
 BOT_MODE=SEARCH_LADDER
 POKEMON_MODE=gen9randombattle
 RUN_COUNT=10
