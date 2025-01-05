@@ -1,61 +1,62 @@
-Ting-Lu @ Leftovers  
-Ability: Vessel of Ruin  
+Walking Wake @ Choice Band  
+Ability: Protosynthesis  
 Tera Type: Water  
-EVs: 252 HP / 4 Atk / 252 SpD  
-Careful Nature  
-- Earthquake  
-- Spikes  
-- Stealth Rock  
-- Whirlwind  
-
-Pelipper @ Choice Specs  
-Ability: Drizzle  
-Tera Type: Water  
-EVs: 4 HP / 252 SpA / 252 Spe  
-Modest Nature  
-- Hurricane  
-- U-turn  
-- Surf  
-- Roost  
-
-Amoonguss @ Rocky Helmet  
-Ability: Regenerator  
-Tera Type: Water  
-EVs: 248 HP / 252 Def / 8 SpD  
-Bold Nature  
-IVs: 0 Atk  
-- Foul Play  
-- Grass Knot  
-- Sludge Bomb  
-- Spore  
-
-Dragapult @ Choice Band  
-Ability: Infiltrator  
-Tera Type: Ghost  
-EVs: 252 Atk / 4 SpA / 252 Spe  
-Hasty Nature  
-- Dragon Darts  
-- U-turn  
-- Tera Blast  
-- Sucker Punch  
-
-Iron Treads @ Air Balloon  
-Ability: Quark Drive  
-Tera Type: Ghost  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
-- Earthquake  
-- Volt Switch  
-- Rapid Spin  
+- Liquidation  
+- Dragon Claw  
 - Knock Off  
+- Flip Turn  
 
-Iron Valiant @ Choice Scarf  
+Enamorus @ Choice Specs  
+Ability: Cute Charm  
+Tera Type: Ground  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Earth Power  
+- Mystical Fire  
+- Sludge Bomb  
+
+Iron Valiant @ Booster Energy  
 Ability: Quark Drive  
-Tera Type: Fairy  
+Tera Type: Ghost  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
 - Moonblast  
-- Aura Sphere  
-- Thunderbolt  
-- Trick  
+- Shadow Ball  
+- Encore  
+- Calm Mind  
+
+Great Tusk @ Heavy-Duty Boots  
+Ability: Protosynthesis  
+Tera Type: Steel  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Headlong Rush  
+- Ice Spinner  
+- Stealth Rock  
+- Rapid Spin  
+
+Gholdengo @ Air Balloon  
+Ability: Good as Gold  
+Tera Type: Water  
+EVs: 252 HP / 192 Def / 64 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Make It Rain  
+- Nasty Plot  
+- Recover  
+
+Samurott-Hisui @ Choice Scarf  
+Ability: Sharpness  
+Tera Type: Water  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Aqua Cutter  
+- Ceaseless Edge  
+- Sacred Sword  
+- Flip Turn  
